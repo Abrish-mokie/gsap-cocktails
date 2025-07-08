@@ -1,7 +1,6 @@
 import React from 'react';
 import { featureLists, goodLists } from '../../constants/navlink';
 import gsap from 'gsap';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { useGSAP } from '@gsap/react';
 import { useMediaQuery } from 'react-responsive';
 
